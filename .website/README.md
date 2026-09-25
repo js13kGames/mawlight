@@ -1,7 +1,7 @@
 ---
 genres:
   - roguelike
-  - action
+  - survival
   - tower-defense
 video: https://youtu.be/DQyQrR82AYw
 # See github.com/js13kGames/hello-world for supported frontmatter
@@ -28,7 +28,7 @@ Keep moving away from spawn. Enemies get stronger, but so do the rewards. Build 
 | <kbd>SHOTS</kbd> | Toggle projectile sounds |
 | <kbd>SWAP</kbd> | Swap left/right controls: VR/mobile |
 | <kbd>INVERT</kbd> | Reverse X/Y look: desktop/mobile |
-| <kbd>LOCK</kbd> | Click to Lock the mouse |
+| <kbd>LOCK</kbd> | Click to lock the cursor |
 | <kbd>CLOSE</kbd> | Close menu |
 
 | Action | VR controllers | VR hands | Mobile | Desktop |
@@ -40,7 +40,7 @@ Keep moving away from spawn. Enemies get stronger, but so do the rewards. Build 
 
 **VR hands controls:** point your <kbd>Index finger</kbd> or <kbd>Thumb</kbd> where you want to move or turn.
 
-**Desktop UI:** Click <kbd>LOCK</kbd> to lock the mouse. <kbd>F11</kbd> for fullscreen. If blurry UI, <kbd>Ctrl</kbd>+<kbd>0</kbd> resets zoom.
+**Desktop UI:** Click <kbd>LOCK</kbd> to lock the cursor. <kbd>F11</kbd> for fullscreen. If blurry UI, <kbd>Ctrl</kbd>+<kbd>0</kbd> resets zoom.
 
 **No external resources.** All assets, data, and code are in the .zip. No external libraries, not even the allowed ones.
 
